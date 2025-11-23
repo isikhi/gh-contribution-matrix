@@ -2,8 +2,7 @@
 
 > "History is written by the victors. Or in this case, by a Python script."
 
-### ⚠️ System Anomaly Detected
-This repository serves as a **Proof of Concept (PoC)** demonstrating Git metadata manipulation and temporal spoofing. 
+This repository serves as a **Proof of Concept (PoC)** demonstrating Git contribution history changes. 
 
 The contribution graph associated with this repository is not a reflection of time, but a reflection of code. It challenges the concept of "digital productivity" by injecting engineered data packets into the GitHub timeline.
 
